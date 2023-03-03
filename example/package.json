@@ -1,0 +1,9 @@
+{
+  "name": "@qt-ui/example",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  }
+}

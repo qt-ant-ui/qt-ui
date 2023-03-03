@@ -1,0 +1,13 @@
+{
+  "name": "@qt-ui/hooks",
+  "private": true,
+  "license": "MIT",
+  "main": "index.ts",
+  "peerDependencies": {
+    "vue": "^3.2.45"
+  },
+  "dependencies": {
+    "@qt-ui/hooks": "workspace:*",
+    "@qt-ui/utils": "workspace:*"
+  }
+}
